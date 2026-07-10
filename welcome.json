@@ -1,0 +1,22 @@
+{
+  "1524418064278622450": {
+    "channel_id": 1524418067130482840,
+    "message": "¡Bienvenido/a {usuario} a **{servidor}**! Ya somos {miembros} miembros.",
+    "recommended_channel_ids": [
+      1524418067130482840
+    ],
+    "enabled": true
+  },
+  "1496229867493003367": {
+    "channel_id": 1524940510890823680,
+    "message": "Hey! Bienvenido  {usuario} a **{servidor}**! Actualmente somos {miembros} miembros.\n¡Disfruta de tu estadia!",
+    "recommended_channel_ids": [
+      1524947993621696572,
+      1524947284872138852,
+      1524946556711866428,
+      1524945983040131273,
+      1524945694291398676
+    ],
+    "enabled": true
+  }
+}
